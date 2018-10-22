@@ -27,8 +27,9 @@ var b = 0;
 function iLoveTheBeatles(b) {
   var beats = [];
   b = b + 1;
-}
+  
 do {
   beats.push("I love the Beatles!"); iLoveTheBeatles(); b < 7;
 } while (b < 8);
- 
+return beats
+}
