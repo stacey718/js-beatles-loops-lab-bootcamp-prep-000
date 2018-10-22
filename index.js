@@ -23,4 +23,6 @@ function johnLennonFacts(facts) {
   return j
 }
 
-function iLoveTheBeatles()
+var 
+function iLoveTheBeatles() {
+}
