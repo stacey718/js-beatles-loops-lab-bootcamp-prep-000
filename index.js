@@ -22,3 +22,4 @@ function johnLennonFacts(facts) {
   }
   return j
 }
+
