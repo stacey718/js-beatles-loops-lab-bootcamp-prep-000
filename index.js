@@ -24,10 +24,11 @@ function johnLennonFacts(facts) {
 }
 
 var b = 0;
-function incrementVariable() {
-  b = b + 1;
-}
-function iLoveTheBeatles() {
+function iLoveTheBeatles(b) {
   var beats = [];
+}
+do {
+  beats.push("I love the Beatles!"); b < 7; b++;
+} while { 
   
 }
