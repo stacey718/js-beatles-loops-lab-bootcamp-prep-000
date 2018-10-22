@@ -14,7 +14,7 @@ var facts = [
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
   ];
-function johnLennonFacts(array) {
+function johnLennonFacts(facts) {
   var j = [];
   let l = 0;
   while (l < facts.length) {
